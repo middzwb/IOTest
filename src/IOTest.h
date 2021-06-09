@@ -1,7 +1,7 @@
 #ifndef IO_TEST_H
 #define IO_TEST_H
 
-#include "ThreadPool.h" // forward declaration with smart pointer
+#include "ThreadPool/ThreadPool.h" // forward declaration with smart pointer
 
 #include <string>
 #include <memory>
